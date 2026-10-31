@@ -1,0 +1,23 @@
+
+# Ignore the SQLite database
+*.db
+*.sqlite3
+*.db-wal
+*.db-shm
+
+# Ignore Python virtual environment
+venv/
+.venv/
+env/
+
+# Ignore Python compiled byte-code & caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Ignore IDE settings & OS junk
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini

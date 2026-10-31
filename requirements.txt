@@ -1,0 +1,5 @@
+fastapi>=0.92.0
+uvicorn>=0.17.6
+pydantic>=1.10.4
+cryptography>=38.0.4
+jinja2>=3.1.2
